@@ -21,3 +21,5 @@
 - sass를 설치합니다. `npm install sass`
 - gsap를 설치합니다. `npm install gsap`
 - lenis를 설치합니다. `npm install @studio-freight/lenis`
+
+2. 라우팅 및 컴퍼넌트, SCSS 설정하기
