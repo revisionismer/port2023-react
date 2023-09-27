@@ -23,3 +23,5 @@
 - lenis를 설치합니다. `npm install @studio-freight/lenis`
 
 2. 라우팅 및 컴퍼넌트, SCSS 설정하기
+
+3. 포트폴리오 사이트 만들기 : 헤더 영역
